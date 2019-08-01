@@ -1,6 +1,6 @@
 # Working with Spark RDD</br>
 RDD Transformations</br>
-RDD Actions
-Pair RDDs
-Pair RDDs Transformations
-Pair RDDs Actions
+RDD Actions</br>
+Pair RDDs</br>
+Pair RDDs Transformations</br>
+Pair RDDs Actions</br>
