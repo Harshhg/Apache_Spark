@@ -1,5 +1,4 @@
-Working with :-
-Spark RDD
+# Working with Spark RDD
 RDD Transformations
 RDD Actions
 Pair RDDs
